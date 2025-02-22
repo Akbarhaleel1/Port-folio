@@ -159,7 +159,7 @@ const Portfolio = () => {
       <header className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className={`container mx-auto px-6 text-center transform transition-all duration-1000 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
           <div className="relative z-10">
-            <div className="text-blue-400 mb-4 font-mono animate-fade-in">Hello World, I'm</div>
+            <div className="text-blue-400 mb-4 font-mono animate-fade-in">Hello World, I am</div>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 animate-slide-up">
               Akbar Haleel
             </h1>
@@ -269,11 +269,11 @@ const Portfolio = () => {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold mb-8">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-              Let's Create Something Amazing
+              Let&apos;s Create Something Amazing
             </span>
           </h2>
           <p className="text-gray-400 mb-12 max-w-2xl mx-auto">
-            Ready to bring your vision to life? Let's collaborate and build something extraordinary together.
+            Ready to bring your vision to life? Let&apos;s collaborate and build something extraordinary together.
           </p>
           <button
   onClick={() => window.open("https://wa.me/7356667616", "_blank")}

@@ -195,7 +195,7 @@ const SkillsSection = () => {
             </h2>
           </div>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
-            Comprehensive overview of skills and technologies I've mastered throughout my journey
+            Comprehensive overview of skills and technologies I have mastered throughout my journey
           </p>
         </div>
 
